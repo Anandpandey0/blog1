@@ -1,9 +1,16 @@
+body{
+    background-color:rgb(90, 88, 88);
+}
+
+
 #contianer{
     text-align: center;
     display: block;
-    border: solid 2px black;
+    border: solid 5px black;
     margin: 2rem auto;
     width: 70%;
+    background-color: white;
+    border-radius: 10px;
 }
 h1{
     background-color: rgb(190, 145, 62);
