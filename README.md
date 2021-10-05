@@ -1,2 +1,2 @@
-# blog1
- Blog on Netflix series
+# Blog-1
+ My first blog on Netflix Series

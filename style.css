@@ -1,24 +1,40 @@
-#section{
+#contianer{
+    text-align: center;
     display: block;
     border: solid 2px black;
-    text-align: center;
-    background-color: rgb(211, 150, 37);
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-}
-#body{
-    border: solid 2px black;
     margin: 2rem auto;
-    width: 50%;
-  
+    width: 70%;
 }
-.body-items{
-    margin: 2rem ;
-}
-a{
-    border: solid 5px rgb(211, 150, 37);
-    background-color: black;
+h1{
+    background-color: rgb(190, 145, 62);
     color: white;
-    border-radius: 25px;
+}
+#section{
+    margin: 2rem auto;
+}
+img{
+    margin: 3rem auto;
+    height: 50vh;
+    width: 54vw;
+}
+#part1{
+    /* border: solid 2px black; */
+   
+    margin: auto;
+}
+#part2{
+    /* border: solid 2px black; */
+    width: 70%;
+    margin: auto;
+}
+#part3{
+    /* border: solid 2px black; */
+    width: 70%;
+    margin: auto;
+}
+
+
+p{
+    border: solid 5px rgb(224, 165, 54);
+    border-radius: 20px;
 }
