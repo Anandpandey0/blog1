@@ -93,12 +93,14 @@ p{
 }
 .social{
     display: flex;
-   
+    border: solid  5px rgb(224, 165, 54) ;
+    width: 50%;
+    margin: auto;
+}
+.social a{
+    margin: auto auto;
 }
 .social img{
-    display: block;
-    margin-right: 2rem;
-    height: 1.5rem;
-    /* margin: auto; */
-    
+   height: 2rem;
+   width: 2rem;
 }
